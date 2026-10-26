@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "a2-001",
+    "unit": "U1",
+    "word": "愛",
+    "pinyin": "ài",
+    "meaning": "yêu"
+  },
+  {
+    "id": "a2-002",
+    "unit": "U1",
+    "word": "吧",
+    "pinyin": "ba",
+    "meaning": "nhé, đi, thôi (trợ từ cuối câu)"
+  },
+  {
+    "id": "a2-003",
+    "unit": "U1",
+    "word": "八",
+    "pinyin": "bā",
+    "meaning": "tám (số 8)"
+  },
+  {
+    "id": "a2-004",
+    "unit": "U1",
+    "word": "爸爸/爸",
+    "pinyin": "bàba / bà",
+    "meaning": "bố, ba"
+  },
+  {
+    "id": "a2-005",
+    "unit": "U1",
+    "word": "百",
+    "pinyin": "bǎi",
+    "meaning": "trăm"
+  },
+  {
+    "id": "a2-006",
+    "unit": "U1",
+    "word": "半",
+    "pinyin": "bàn",
+    "meaning": "nửa, rưỡi"
+  },
+  {
+    "id": "a2-007",
+    "unit": "U1",
+    "word": "本",
+    "pinyin": "běn",
+    "meaning": "quyển, cuốn (lượng từ cho sách)"
+  },
+  {
+    "id": "a2-008",
+    "unit": "U1",
+    "word": "不",
+    "pinyin": "bù",
+    "meaning": "không"
+  },
+  {
+    "id": "a2-009",
+    "unit": "U1",
+    "word": "茶",
+    "pinyin": "chá",
+    "meaning": "trà, chè"
+  },
+  {
+    "id": "a2-010",
+    "unit": "U1",
+    "word": "車子/車",
+    "pinyin": "chēzi / chē",
+    "meaning": "xe, xe cộ"
+  },
+  {
+    "id": "a2-011",
+    "unit": "U1",
+    "word": "吃",
+    "pinyin": "chī",
+    "meaning": "ăn"
+  },
+  {
+    "id": "a2-012",
+    "unit": "U1",
+    "word": "吃飯",
+    "pinyin": "chīfàn",
+    "meaning": "ăn cơm"
+  },
+  {
+    "id": "a2-013",
+    "unit": "U1",
+    "word": "打",
+    "pinyin": "dǎ",
+    "meaning": "đánh, gọi (điện thoại), chơi (bóng)"
+  },
+  {
+    "id": "a2-014",
+    "unit": "U1",
+    "word": "大",
+    "pinyin": "dà",
+    "meaning": "lớn, to"
+  },
+  {
+    "id": "a2-015",
+    "unit": "U1",
+    "word": "帶",
+    "pinyin": "dài",
+    "meaning": "mang theo, dẫn theo"
+  },
+  {
+    "id": "a2-016",
+    "unit": "U1",
+    "word": "大家",
+    "pinyin": "dàjiā",
+    "meaning": "mọi người"
+  },
+  {
+    "id": "a2-017",
+    "unit": "U1",
+    "word": "到",
+    "pinyin": "dào",
+    "meaning": "đến"
+  },
+  {
+    "id": "a2-018",
+    "unit": "U1",
+    "word": "大學",
+    "pinyin": "dàxué",
+    "meaning": "đại học"
+  },
+  {
+    "id": "a2-019",
+    "unit": "U1",
+    "word": "的",
+    "pinyin": "de",
+    "meaning": "của (trợ từ sở hữu)"
+  },
+  {
+    "id": "a2-020",
+    "unit": "U1",
+    "word": "點",
+    "pinyin": "diǎn",
+    "meaning": "giờ, chút, điểm"
+  },
+  {
+    "id": "a2-021",
+    "unit": "U1",
+    "word": "電話",
+    "pinyin": "diànhuà",
+    "meaning": "điện thoại"
+  },
+  {
+    "id": "a2-022",
+    "unit": "U1",
+    "word": "弟弟/弟",
+    "pinyin": "dìdi / dì",
+    "meaning": "em trai"
+  },
+  {
+    "id": "a2-023",
+    "unit": "U1",
+    "word": "東西",
+    "pinyin": "dōngxi",
+    "meaning": "đồ đạc, vật phẩm"
+  },
+  {
+    "id": "a2-024",
+    "unit": "U1",
+    "word": "都",
+    "pinyin": "dōu",
+    "meaning": "đều"
+  },
+  {
+    "id": "a2-025",
+    "unit": "U1",
+    "word": "對",
+    "pinyin": "duì",
+    "meaning": "đúng, đối với"
+  },
+  {
+    "id": "a2-026",
+    "unit": "U2",
+    "word": "對不起",
+    "pinyin": "duìbùqǐ",
+    "meaning": "xin lỗi"
+  },
+  {
+    "id": "a2-027",
+    "unit": "U2",
+    "word": "多",
+    "pinyin": "duō",
+    "meaning": "nhiều"
+  },
+  {
+    "id": "a2-028",
+    "unit": "U2",
+    "word": "多少",
+    "pinyin": "duōshǎo",
+    "meaning": "bao nhiêu"
+  },
+  {
+    "id": "a2-029",
+    "unit": "U2",
+    "word": "二",
+    "pinyin": "èr",
+    "meaning": "hai (số 2)"
+  },
+  {
+    "id": "a2-030",
+    "unit": "U2",
+    "word": "兒子",
+    "pinyin": "érzi",
+    "meaning": "con trai"
+  },
+  {
+    "id": "a2-031",
+    "unit": "U2",
+    "word": "分",
+    "pinyin": "fēn",
+    "meaning": "phút, phân, chia"
+  },
+  {
+    "id": "a2-032",
+    "unit": "U2",
+    "word": "高",
+    "pinyin": "gāo",
+    "meaning": "cao"
+  },
+  {
+    "id": "a2-033",
+    "unit": "U2",
+    "word": "個",
+    "pinyin": "ge",
+    "meaning": "cái, chiếc (lượng từ phổ biến)"
+  },
+  {
+    "id": "a2-034",
+    "unit": "U2",
+    "word": "哥哥/哥",
+    "pinyin": "gēge / gē",
+    "meaning": "anh trai"
+  },
+  {
+    "id": "a2-035",
+    "unit": "U2",
+    "word": "給",
+    "pinyin": "gěi",
+    "meaning": "cho, đưa cho"
+  },
+  {
+    "id": "a2-036",
+    "unit": "U2",
+    "word": "工作",
+    "pinyin": "gōngzuò",
+    "meaning": "làm việc, công việc"
+  },
+  {
+    "id": "a2-037",
+    "unit": "U2",
+    "word": "國",
+    "pinyin": "guó",
+    "meaning": "nước, quốc gia"
+  },
+  {
+    "id": "a2-038",
+    "unit": "U2",
+    "word": "孩子",
+    "pinyin": "háizi",
+    "meaning": "đứa trẻ, con cái"
+  },
+  {
+    "id": "a2-039",
+    "unit": "U2",
+    "word": "和",
+    "pinyin": "hàn / hé",
+    "meaning": "và, với"
+  },
+  {
+    "id": "a2-040",
+    "unit": "U2",
+    "word": "好",
+    "pinyin": "hǎo",
+    "meaning": "tốt, khỏe, ngon"
+  },
+  {
+    "id": "a2-041",
+    "unit": "U2",
+    "word": "號",
+    "pinyin": "hào",
+    "meaning": "ngày, số"
+  },
+  {
+    "id": "a2-042",
+    "unit": "U2",
+    "word": "喝",
+    "pinyin": "hē",
+    "meaning": "uống"
+  },
+  {
+    "id": "a2-043",
+    "unit": "U2",
+    "word": "很",
+    "pinyin": "hěn",
+    "meaning": "rất"
+  },
+  {
+    "id": "a2-044",
+    "unit": "U2",
+    "word": "後",
+    "pinyin": "hòu",
+    "meaning": "sau, phía sau"
+  },
+  {
+    "id": "a2-045",
+    "unit": "U2",
+    "word": "話",
+    "pinyin": "huà",
+    "meaning": "lời nói, tiếng"
+  },
+  {
+    "id": "a2-046",
+    "unit": "U2",
+    "word": "幾",
+    "pinyin": "jǐ",
+    "meaning": "mấy, bao nhiêu"
+  },
+  {
+    "id": "a2-047",
+    "unit": "U2",
+    "word": "家",
+    "pinyin": "jiā",
+    "meaning": "nhà, gia đình"
+  },
+  {
+    "id": "a2-048",
+    "unit": "U2",
+    "word": "腳",
+    "pinyin": "jiǎo",
+    "meaning": "chân"
+  },
+  {
+    "id": "a2-049",
+    "unit": "U2",
+    "word": "叫",
+    "pinyin": "jiào",
+    "meaning": "gọi, tên là"
+  },
+  {
+    "id": "a2-050",
+    "unit": "U2",
+    "word": "姊姊/姐姐/姊/姐",
+    "pinyin": "jiějie / jiě",
+    "meaning": "chị gái"
+  },
+  {
+    "id": "a2-051",
+    "unit": "U3",
+    "word": "今年",
+    "pinyin": "jīnnián",
+    "meaning": "năm nay"
+  },
+  {
+    "id": "a2-052",
+    "unit": "U3",
+    "word": "今天",
+    "pinyin": "jīntiān",
+    "meaning": "hôm nay"
+  },
+  {
+    "id": "a2-053",
+    "unit": "U3",
+    "word": "久",
+    "pinyin": "jiǔ",
+    "meaning": "lâu"
+  },
+  {
+    "id": "a2-054",
+    "unit": "U3",
+    "word": "九",
+    "pinyin": "jiǔ",
+    "meaning": "chín (số 9)"
+  },
+  {
+    "id": "a2-055",
+    "unit": "U3",
+    "word": "就",
+    "pinyin": "jiù",
+    "meaning": "thì, liền, chính là"
+  },
+  {
+    "id": "a2-056",
+    "unit": "U3",
+    "word": "咖啡",
+    "pinyin": "kāfēi",
+    "meaning": "cà phê"
+  },
+  {
+    "id": "a2-057",
+    "unit": "U3",
+    "word": "看",
+    "pinyin": "kàn",
+    "meaning": "xem, nhìn, đọc"
+  },
+  {
+    "id": "a2-058",
+    "unit": "U3",
+    "word": "可能",
+    "pinyin": "kěnéng",
+    "meaning": "có lẽ, có thể"
+  },
+  {
+    "id": "a2-059",
+    "unit": "U3",
+    "word": "可以",
+    "pinyin": "kěyǐ",
+    "meaning": "có thể, được"
+  },
+  {
+    "id": "a2-060",
+    "unit": "U3",
+    "word": "塊",
+    "pinyin": "kuài",
+    "meaning": "đồng (đơn vị tiền), miếng, cục"
+  },
+  {
+    "id": "a2-061",
+    "unit": "U3",
+    "word": "來",
+    "pinyin": "lái",
+    "meaning": "đến, tới"
+  },
+  {
+    "id": "a2-062",
+    "unit": "U3",
+    "word": "老",
+    "pinyin": "lǎo",
+    "meaning": "già, cũ"
+  },
+  {
+    "id": "a2-063",
+    "unit": "U3",
+    "word": "老師",
+    "pinyin": "lǎoshī",
+    "meaning": "giáo viên, thầy cô"
+  },
+  {
+    "id": "a2-064",
+    "unit": "U3",
+    "word": "冷",
+    "pinyin": "lěng",
+    "meaning": "lạnh"
+  },
+  {
+    "id": "a2-065",
+    "unit": "U3",
+    "word": "兩",
+    "pinyin": "liǎng",
+    "meaning": "hai (dùng trước lượng từ)"
+  },
+  {
+    "id": "a2-066",
+    "unit": "U3",
+    "word": "六",
+    "pinyin": "liù",
+    "meaning": "sáu (số 6)"
+  },
+  {
+    "id": "a2-067",
+    "unit": "U3",
+    "word": "路",
+    "pinyin": "lù",
+    "meaning": "đường"
+  },
+  {
+    "id": "a2-068",
+    "unit": "U3",
+    "word": "嗎",
+    "pinyin": "ma",
+    "meaning": "không (trợ từ nghi vấn)"
+  },
+  {
+    "id": "a2-069",
+    "unit": "U3",
+    "word": "買",
+    "pinyin": "mǎi",
+    "meaning": "mua"
+  },
+  {
+    "id": "a2-070",
+    "unit": "U3",
+    "word": "媽媽/媽",
+    "pinyin": "māma / ma",
+    "meaning": "mẹ"
+  },
+  {
+    "id": "a2-071",
+    "unit": "U3",
+    "word": "沒",
+    "pinyin": "méi",
+    "meaning": "không, chưa"
+  },
+  {
+    "id": "a2-072",
+    "unit": "U3",
+    "word": "沒關係",
+    "pinyin": "méiguānxi",
+    "meaning": "không sao, không có gì"
+  },
+  {
+    "id": "a2-073",
+    "unit": "U3",
+    "word": "妹妹/妹",
+    "pinyin": "mèimei / mèi",
+    "meaning": "em gái"
+  },
+  {
+    "id": "a2-074",
+    "unit": "U3",
+    "word": "沒有",
+    "pinyin": "méiyǒu",
+    "meaning": "không có"
+  },
+  {
+    "id": "a2-075",
+    "unit": "U3",
+    "word": "們",
+    "pinyin": "men",
+    "meaning": "các (hậu tố chỉ số nhiều)"
+  },
+  {
+    "id": "a2-076",
+    "unit": "U4",
+    "word": "名字",
+    "pinyin": "míng zi",
+    "meaning": "tên"
+  },
+  {
+    "id": "a2-077",
+    "unit": "U4",
+    "word": "明天",
+    "pinyin": "míngtiān",
+    "meaning": "ngày mai"
+  },
+  {
+    "id": "a2-078",
+    "unit": "U4",
+    "word": "拿",
+    "pinyin": "ná",
+    "meaning": "cầm, lấy"
+  },
+  {
+    "id": "a2-079",
+    "unit": "U4",
+    "word": "哪",
+    "pinyin": "nǎ",
+    "meaning": "nào"
+  },
+  {
+    "id": "a2-080",
+    "unit": "U4",
+    "word": "那",
+    "pinyin": "nà",
+    "meaning": "kia, đó"
+  },
+  {
+    "id": "a2-081",
+    "unit": "U4",
+    "word": "哪裡/哪裏/哪兒",
+    "pinyin": "nǎlǐ / nǎlǐ / nǎr",
+    "meaning": "đâu, ở đâu"
+  },
+  {
+    "id": "a2-082",
+    "unit": "U4",
+    "word": "那裡/那裏/那兒",
+    "pinyin": "nàlǐ / nàr",
+    "meaning": "đó, kia, chỗ đó"
+  },
+  {
+    "id": "a2-083",
+    "unit": "U4",
+    "word": "難",
+    "pinyin": "nán",
+    "meaning": "khó"
+  },
+  {
+    "id": "a2-084",
+    "unit": "U4",
+    "word": "呢",
+    "pinyin": "ne",
+    "meaning": "nhỉ, nhé (trợ từ cuối câu)"
+  },
+  {
+    "id": "a2-085",
+    "unit": "U4",
+    "word": "你",
+    "pinyin": "nǐ",
+    "meaning": "bạn, anh, chị (ngôi thứ 2 số ít)"
+  },
+  {
+    "id": "a2-086",
+    "unit": "U4",
+    "word": "妳",
+    "pinyin": "nǐ",
+    "meaning": "bạn, chị, em (dùng cho nữ giới)"
+  },
+  {
+    "id": "a2-087",
+    "unit": "U4",
+    "word": "年",
+    "pinyin": "nián",
+    "meaning": "năm"
+  },
+  {
+    "id": "a2-088",
+    "unit": "U4",
+    "word": "你們",
+    "pinyin": "nǐmen",
+    "meaning": "các bạn, các anh, các chị"
+  },
+  {
+    "id": "a2-089",
+    "unit": "U4",
+    "word": "您",
+    "pinyin": "nín",
+    "meaning": "ngài, ông, bà (kính trọng)"
+  },
+  {
+    "id": "a2-090",
+    "unit": "U4",
+    "word": "女兒",
+    "pinyin": "nǚér",
+    "meaning": "con gái"
+  },
+  {
+    "id": "a2-091",
+    "unit": "U4",
+    "word": "朋友",
+    "pinyin": "péngyǒu",
+    "meaning": "bạn bè"
+  },
+  {
+    "id": "a2-092",
+    "unit": "U4",
+    "word": "七",
+    "pinyin": "qī",
+    "meaning": "bảy (số 7)"
+  },
+  {
+    "id": "a2-093",
+    "unit": "U4",
+    "word": "千",
+    "pinyin": "qiān",
+    "meaning": "nghìn, ngàn"
+  },
+  {
+    "id": "a2-094",
+    "unit": "U4",
+    "word": "前",
+    "pinyin": "qián",
+    "meaning": "trước, phía trước"
+  },
+  {
+    "id": "a2-095",
+    "unit": "U4",
+    "word": "錢",
+    "pinyin": "qián",
+    "meaning": "tiền"
+  },
+  {
+    "id": "a2-096",
+    "unit": "U4",
+    "word": "請",
+    "pinyin": "qǐng",
+    "meaning": "mời, xin"
+  },
+  {
+    "id": "a2-097",
+    "unit": "U4",
+    "word": "請問",
+    "pinyin": "qǐngwèn",
+    "meaning": "xin hỏi"
+  },
+  {
+    "id": "a2-098",
+    "unit": "U4",
+    "word": "去",
+    "pinyin": "qù",
+    "meaning": "đi"
+  },
+  {
+    "id": "a2-099",
+    "unit": "U4",
+    "word": "去年",
+    "pinyin": "qùnián",
+    "meaning": "năm ngoái"
+  },
+  {
+    "id": "a2-100",
+    "unit": "U4",
+    "word": "熱",
+    "pinyin": "rè",
+    "meaning": "nóng"
+  },
+  {
+    "id": "a2-101",
+    "unit": "U5",
+    "word": "人",
+    "pinyin": "rén",
+    "meaning": "người"
+  },
+  {
+    "id": "a2-102",
+    "unit": "U5",
+    "word": "日",
+    "pinyin": "rì",
+    "meaning": "ngày, mặt trời"
+  },
+  {
+    "id": "a2-103",
+    "unit": "U5",
+    "word": "容易",
+    "pinyin": "róngyì",
+    "meaning": "dễ, dễ dàng"
+  },
+  {
+    "id": "a2-104",
+    "unit": "U5",
+    "word": "三",
+    "pinyin": "sān",
+    "meaning": "ba (số 3)"
+  },
+  {
+    "id": "a2-105",
+    "unit": "U5",
+    "word": "上",
+    "pinyin": "shàng",
+    "meaning": "trên, lên"
+  },
+  {
+    "id": "a2-106",
+    "unit": "U5",
+    "word": "上午",
+    "pinyin": "shàngwǔ",
+    "meaning": "buổi sáng"
+  },
+  {
+    "id": "a2-107",
+    "unit": "U5",
+    "word": "少",
+    "pinyin": "shǎo",
+    "meaning": "ít"
+  },
+  {
+    "id": "a2-108",
+    "unit": "U5",
+    "word": "誰",
+    "pinyin": "shéi",
+    "meaning": "ai"
+  },
+  {
+    "id": "a2-109",
+    "unit": "U5",
+    "word": "什麼/甚麼",
+    "pinyin": "shénme",
+    "meaning": "cái gì"
+  },
+  {
+    "id": "a2-110",
+    "unit": "U5",
+    "word": "十",
+    "pinyin": "shí",
+    "meaning": "mười (số 10)"
+  },
+  {
+    "id": "a2-111",
+    "unit": "U5",
+    "word": "是",
+    "pinyin": "shì",
+    "meaning": "là"
+  },
+  {
+    "id": "a2-112",
+    "unit": "U5",
+    "word": "時候",
+    "pinyin": "shíhòu",
+    "meaning": "lúc, khi"
+  },
+  {
+    "id": "a2-113",
+    "unit": "U5",
+    "word": "時間",
+    "pinyin": "shíjiān",
+    "meaning": "thời gian"
+  },
+  {
+    "id": "a2-114",
+    "unit": "U5",
+    "word": "手機",
+    "pinyin": "shǒujī",
+    "meaning": "điện thoại di động"
+  },
+  {
+    "id": "a2-115",
+    "unit": "U5",
+    "word": "書",
+    "pinyin": "shū",
+    "meaning": "sách"
+  },
+  {
+    "id": "a2-116",
+    "unit": "U5",
+    "word": "水",
+    "pinyin": "shuǐ",
+    "meaning": "nước"
+  },
+  {
+    "id": "a2-117",
+    "unit": "U5",
+    "word": "睡覺",
+    "pinyin": "shuìjiào",
+    "meaning": "ngủ"
+  },
+  {
+    "id": "a2-118",
+    "unit": "U5",
+    "word": "說",
+    "pinyin": "shuō",
+    "meaning": "nói"
+  },
+  {
+    "id": "a2-119",
+    "unit": "U5",
+    "word": "四",
+    "pinyin": "sì",
+    "meaning": "bốn (số 4)"
+  },
+  {
+    "id": "a2-120",
+    "unit": "U5",
+    "word": "歲",
+    "pinyin": "suì",
+    "meaning": "tuổi"
+  },
+  {
+    "id": "a2-121",
+    "unit": "U5",
+    "word": "她",
+    "pinyin": "tā",
+    "meaning": "cô ấy, bà ấy"
+  },
+  {
+    "id": "a2-122",
+    "unit": "U5",
+    "word": "他",
+    "pinyin": "tā",
+    "meaning": "anh ấy, ông ấy"
+  },
+  {
+    "id": "a2-123",
+    "unit": "U5",
+    "word": "太",
+    "pinyin": "tài",
+    "meaning": "quá, lắm"
+  },
+  {
+    "id": "a2-124",
+    "unit": "U5",
+    "word": "太太",
+    "pinyin": "tàitai",
+    "meaning": "vợ, bà (xưng hô lịch sự)"
+  },
+  {
+    "id": "a2-125",
+    "unit": "U5",
+    "word": "台灣/臺灣",
+    "pinyin": "táiwān",
+    "meaning": "Đài Loan"
+  },
+  {
+    "id": "a2-126",
+    "unit": "U6",
+    "word": "臺灣人/台灣人",
+    "pinyin": "táiwānrén",
+    "meaning": "người Đài Loan"
+  },
+  {
+    "id": "a2-127",
+    "unit": "U6",
+    "word": "他們",
+    "pinyin": "tāmen",
+    "meaning": "họ, các anh ấy"
+  },
+  {
+    "id": "a2-128",
+    "unit": "U6",
+    "word": "天",
+    "pinyin": "tiān",
+    "meaning": "ngày, trời"
+  },
+  {
+    "id": "a2-129",
+    "unit": "U6",
+    "word": "聽",
+    "pinyin": "tīng",
+    "meaning": "nghe"
+  },
+  {
+    "id": "a2-130",
+    "unit": "U6",
+    "word": "同學",
+    "pinyin": "tóngxué",
+    "meaning": "bạn cùng học, bạn cùng lớp"
+  },
+  {
+    "id": "a2-131",
+    "unit": "U6",
+    "word": "外",
+    "pinyin": "wài",
+    "meaning": "ngoài, bên ngoài"
+  },
+  {
+    "id": "a2-132",
+    "unit": "U6",
+    "word": "晚安",
+    "pinyin": "wǎnān",
+    "meaning": "chúc ngủ ngon"
+  },
+  {
+    "id": "a2-133",
+    "unit": "U6",
+    "word": "晚上",
+    "pinyin": "wǎnshàng",
+    "meaning": "buổi tối"
+  },
+  {
+    "id": "a2-134",
+    "unit": "U6",
+    "word": "位",
+    "pinyin": "wèi",
+    "meaning": "vị (lượng từ lịch sự cho người)"
+  },
+  {
+    "id": "a2-135",
+    "unit": "U6",
+    "word": "問",
+    "pinyin": "wèn",
+    "meaning": "hỏi"
+  },
+  {
+    "id": "a2-136",
+    "unit": "U6",
+    "word": "問題",
+    "pinyin": "wèntí",
+    "meaning": "vấn đề, câu hỏi"
+  },
+  {
+    "id": "a2-137",
+    "unit": "U6",
+    "word": "我",
+    "pinyin": "wǒ",
+    "meaning": "tôi, mình, tớ"
+  },
+  {
+    "id": "a2-138",
+    "unit": "U6",
+    "word": "我們",
+    "pinyin": "wǒmen",
+    "meaning": "chúng tôi, chúng ta"
+  },
+  {
+    "id": "a2-139",
+    "unit": "U6",
+    "word": "五",
+    "pinyin": "wǔ",
+    "meaning": "năm (số 5)"
+  },
+  {
+    "id": "a2-140",
+    "unit": "U6",
+    "word": "想",
+    "pinyin": "xiǎng",
+    "meaning": "muốn, nghĩ, nhớ"
+  },
+  {
+    "id": "a2-141",
+    "unit": "U6",
+    "word": "先生",
+    "pinyin": "xiānshēng",
+    "meaning": "ông, ngài, chồng"
+  },
+  {
+    "id": "a2-142",
+    "unit": "U6",
+    "word": "現在",
+    "pinyin": "xiànzài",
+    "meaning": "bây giờ"
+  },
+  {
+    "id": "a2-143",
+    "unit": "U6",
+    "word": "小",
+    "pinyin": "xiǎo",
+    "meaning": "nhỏ, bé"
+  },
+  {
+    "id": "a2-144",
+    "unit": "U6",
+    "word": "小孩/小孩子",
+    "pinyin": "xiǎohái / xiǎoháizi",
+    "meaning": "trẻ con, đứa trẻ"
+  },
+  {
+    "id": "a2-145",
+    "unit": "U6",
+    "word": "小姐",
+    "pinyin": "xiǎojiě",
+    "meaning": "cô, tiểu thư"
+  },
+  {
+    "id": "a2-146",
+    "unit": "U6",
+    "word": "小時",
+    "pinyin": "xiǎoshí",
+    "meaning": "tiếng đồng hồ"
+  },
+  {
+    "id": "a2-147",
+    "unit": "U6",
+    "word": "下午",
+    "pinyin": "xiàwǔ",
+    "meaning": "buổi chiều"
+  },
+  {
+    "id": "a2-148",
+    "unit": "U6",
+    "word": "寫",
+    "pinyin": "xiě",
+    "meaning": "viết"
+  },
+  {
+    "id": "a2-149",
+    "unit": "U6",
+    "word": "謝謝",
+    "pinyin": "xièxie",
+    "meaning": "cảm ơn"
+  },
+  {
+    "id": "a2-150",
+    "unit": "U6",
+    "word": "喜歡",
+    "pinyin": "xǐhuān",
+    "meaning": "thích"
+  },
+  {
+    "id": "a2-151",
+    "unit": "U7",
+    "word": "新",
+    "pinyin": "xīn",
+    "meaning": "mới"
+  },
+  {
+    "id": "a2-152",
+    "unit": "U7",
+    "word": "姓名",
+    "pinyin": "xìngmíng",
+    "meaning": "họ tên"
+  },
+  {
+    "id": "a2-153",
+    "unit": "U7",
+    "word": "星期天/星期日",
+    "pinyin": "xīngqítiān / xīngqírì",
+    "meaning": "chủ nhật"
+  },
+  {
+    "id": "a2-154",
+    "unit": "U7",
+    "word": "星期一",
+    "pinyin": "xīngqíyī",
+    "meaning": "thứ hai"
+  },
+  {
+    "id": "a2-155",
+    "unit": "U7",
+    "word": "學",
+    "pinyin": "xué",
+    "meaning": "học"
+  },
+  {
+    "id": "a2-156",
+    "unit": "U7",
+    "word": "學生",
+    "pinyin": "xuéshēng",
+    "meaning": "học sinh, sinh viên"
+  },
+  {
+    "id": "a2-157",
+    "unit": "U7",
+    "word": "學校",
+    "pinyin": "xuéxiào",
+    "meaning": "trường học"
+  },
+  {
+    "id": "a2-158",
+    "unit": "U7",
+    "word": "要",
+    "pinyin": "yào",
+    "meaning": "cần, muốn, phải"
+  },
+  {
+    "id": "a2-159",
+    "unit": "U7",
+    "word": "也",
+    "pinyin": "yě",
+    "meaning": "cũng"
+  },
+  {
+    "id": "a2-160",
+    "unit": "U7",
+    "word": "一",
+    "pinyin": "yī",
+    "meaning": "một (số 1)"
+  },
+  {
+    "id": "a2-161",
+    "unit": "U7",
+    "word": "英文",
+    "pinyin": "yīngwén",
+    "meaning": "tiếng Anh"
+  },
+  {
+    "id": "a2-162",
+    "unit": "U7",
+    "word": "一起",
+    "pinyin": "yìqǐ",
+    "meaning": "cùng nhau"
+  },
+  {
+    "id": "a2-163",
+    "unit": "U7",
+    "word": "醫生/醫師",
+    "pinyin": "yīshēng / yīshī",
+    "meaning": "bác sĩ"
+  },
+  {
+    "id": "a2-164",
+    "unit": "U7",
+    "word": "一月",
+    "pinyin": "yīyuè",
+    "meaning": "tháng một"
+  },
+  {
+    "id": "a2-165",
+    "unit": "U7",
+    "word": "用",
+    "pinyin": "yòng",
+    "meaning": "dùng, sử dụng"
+  },
+  {
+    "id": "a2-166",
+    "unit": "U7",
+    "word": "有",
+    "pinyin": "yǒu",
+    "meaning": "có"
+  },
+  {
+    "id": "a2-167",
+    "unit": "U7",
+    "word": "元",
+    "pinyin": "yuán",
+    "meaning": "đồng (đơn vị tiền tệ)"
+  },
+  {
+    "id": "a2-168",
+    "unit": "U7",
+    "word": "月",
+    "pinyin": "yuè",
+    "meaning": "tháng, mặt trăng"
+  },
+  {
+    "id": "a2-169",
+    "unit": "U7",
+    "word": "再見",
+    "pinyin": "zàijiàn",
+    "meaning": "tạm biệt"
+  },
+  {
+    "id": "a2-170",
+    "unit": "U7",
+    "word": "早",
+    "pinyin": "zǎo",
+    "meaning": "sớm, chào buổi sáng"
+  },
+  {
+    "id": "a2-171",
+    "unit": "U7",
+    "word": "早安",
+    "pinyin": "zǎoān",
+    "meaning": "chào buổi sáng"
+  },
+  {
+    "id": "a2-172",
+    "unit": "U7",
+    "word": "早上",
+    "pinyin": "zǎoshàng",
+    "meaning": "buổi sáng"
+  },
+  {
+    "id": "a2-173",
+    "unit": "U7",
+    "word": "怎麼",
+    "pinyin": "zěnme",
+    "meaning": "thế nào, làm sao"
+  },
+  {
+    "id": "a2-174",
+    "unit": "U7",
+    "word": "找",
+    "pinyin": "zhǎo",
+    "meaning": "tìm"
+  },
+  {
+    "id": "a2-175",
+    "unit": "U7",
+    "word": "這",
+    "pinyin": "zhè",
+    "meaning": "đây, này"
+  },
+  {
+    "id": "a2-176",
+    "unit": "U8",
+    "word": "這裡/這裏/這兒",
+    "pinyin": "zhè/zhèlǐ/zhèr",
+    "meaning": "ở đây"
+  },
+  {
+    "id": "a2-177",
+    "unit": "U8",
+    "word": "知道",
+    "pinyin": "zhīdào",
+    "meaning": "biết"
+  },
+  {
+    "id": "a2-178",
+    "unit": "U8",
+    "word": "中文",
+    "pinyin": "zhōngwén",
+    "meaning": "tiếng Trung"
+  },
+  {
+    "id": "a2-179",
+    "unit": "U8",
+    "word": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": "buổi trưa"
+  },
+  {
+    "id": "a2-180",
+    "unit": "U8",
+    "word": "字",
+    "pinyin": "zì",
+    "meaning": "chữ"
+  },
+  {
+    "id": "a2-181",
+    "unit": "U8",
+    "word": "走",
+    "pinyin": "zǒu",
+    "meaning": "đi"
+  },
+  {
+    "id": "a2-182",
+    "unit": "U8",
+    "word": "做",
+    "pinyin": "zuò",
+    "meaning": "làm"
+  },
+  {
+    "id": "a2-183",
+    "unit": "U8",
+    "word": "坐",
+    "pinyin": "zuò",
+    "meaning": "ngồi"
+  },
+  {
+    "id": "a2-184",
+    "unit": "U8",
+    "word": "昨天",
+    "pinyin": "zuótiān",
+    "meaning": "hôm qua"
+  },
+  {
+    "id": "a2-185",
+    "unit": "U8",
+    "word": "矮",
+    "pinyin": "ǎi",
+    "meaning": "thấp, lùn"
+  },
+  {
+    "id": "a2-186",
+    "unit": "U8",
+    "word": "白",
+    "pinyin": "bái",
+    "meaning": "trắng"
+  },
+  {
+    "id": "a2-187",
+    "unit": "U8",
+    "word": "飽",
+    "pinyin": "bǎo",
+    "meaning": "no"
+  },
+  {
+    "id": "a2-188",
+    "unit": "U8",
+    "word": "包子",
+    "pinyin": "bāozi",
+    "meaning": "bánh bao"
+  },
+  {
+    "id": "a2-189",
+    "unit": "U8",
+    "word": "杯",
+    "pinyin": "bēi",
+    "meaning": "cốc, ly (lượng từ)"
+  },
+  {
+    "id": "a2-190",
+    "unit": "U8",
+    "word": "杯子",
+    "pinyin": "bēizi",
+    "meaning": "cái cốc, cái ly"
+  },
+  {
+    "id": "a2-191",
+    "unit": "U8",
+    "word": "筆",
+    "pinyin": "bǐ",
+    "meaning": "bút"
+  },
+  {
+    "id": "a2-192",
+    "unit": "U8",
+    "word": "比",
+    "pinyin": "bǐ",
+    "meaning": "so với"
+  },
+  {
+    "id": "a2-193",
+    "unit": "U8",
+    "word": "邊",
+    "pinyin": "biān",
+    "meaning": "bên, cạnh"
+  },
+  {
+    "id": "a2-194",
+    "unit": "U8",
+    "word": "別",
+    "pinyin": "bié",
+    "meaning": "đừng, khác"
+  },
+  {
+    "id": "a2-195",
+    "unit": "U8",
+    "word": "冰",
+    "pinyin": "bīng",
+    "meaning": "đá, lạnh"
+  },
+  {
+    "id": "a2-196",
+    "unit": "U8",
+    "word": "病",
+    "pinyin": "bìng",
+    "meaning": "bệnh"
+  },
+  {
+    "id": "a2-197",
+    "unit": "U8",
+    "word": "鼻子/鼻",
+    "pinyin": "bízi / bí",
+    "meaning": "mũi"
+  },
+  {
+    "id": "a2-198",
+    "unit": "U8",
+    "word": "不錯",
+    "pinyin": "búcuò",
+    "meaning": "không tồi, tốt"
+  },
+  {
+    "id": "a2-199",
+    "unit": "U8",
+    "word": "菜",
+    "pinyin": "cài",
+    "meaning": "rau, món ăn"
+  },
+  {
+    "id": "a2-200",
+    "unit": "U8",
+    "word": "餐廳",
+    "pinyin": "cāntīng",
+    "meaning": "nhà hàng"
+  },
+  {
+    "id": "a2-201",
+    "unit": "U9",
+    "word": "長",
+    "pinyin": "cháng",
+    "meaning": "dài"
+  },
+  {
+    "id": "a2-202",
+    "unit": "U9",
+    "word": "唱",
+    "pinyin": "chàng",
+    "meaning": "hát"
+  },
+  {
+    "id": "a2-203",
+    "unit": "U9",
+    "word": "唱歌",
+    "pinyin": "chàng gē",
+    "meaning": "hát hò"
+  },
+  {
+    "id": "a2-204",
+    "unit": "U9",
+    "word": "常常/常",
+    "pinyin": "chángcháng / cháng",
+    "meaning": "thường xuyên"
+  },
+  {
+    "id": "a2-205",
+    "unit": "U9",
+    "word": "出",
+    "pinyin": "chū",
+    "meaning": "ra, xuất"
+  },
+  {
+    "id": "a2-206",
+    "unit": "U9",
+    "word": "穿",
+    "pinyin": "chuān",
+    "meaning": "mặc, xỏ"
+  },
+  {
+    "id": "a2-207",
+    "unit": "U9",
+    "word": "床",
+    "pinyin": "chuáng",
+    "meaning": "giường"
+  },
+  {
+    "id": "a2-208",
+    "unit": "U9",
+    "word": "從",
+    "pinyin": "cóng",
+    "meaning": "từ"
+  },
+  {
+    "id": "a2-209",
+    "unit": "U9",
+    "word": "錯",
+    "pinyin": "cuò",
+    "meaning": "sai"
+  },
+  {
+    "id": "a2-210",
+    "unit": "U9",
+    "word": "蛋",
+    "pinyin": "dàn",
+    "meaning": "trứng"
+  },
+  {
+    "id": "a2-211",
+    "unit": "U9",
+    "word": "得",
+    "pinyin": "de",
+    "meaning": "được (trợ từ bổ ngữ)"
+  },
+  {
+    "id": "a2-212",
+    "unit": "U9",
+    "word": "得",
+    "pinyin": "děi",
+    "meaning": "phải"
+  },
+  {
+    "id": "a2-213",
+    "unit": "U9",
+    "word": "等",
+    "pinyin": "děng",
+    "meaning": "đợi, chờ"
+  },
+  {
+    "id": "a2-214",
+    "unit": "U9",
+    "word": "低",
+    "pinyin": "dī",
+    "meaning": "thấp"
+  },
+  {
+    "id": "a2-215",
+    "unit": "U9",
+    "word": "店",
+    "pinyin": "diàn",
+    "meaning": "cửa hàng, tiệm"
+  },
+  {
+    "id": "a2-216",
+    "unit": "U9",
+    "word": "電腦",
+    "pinyin": "diànnǎo",
+    "meaning": "máy tính"
+  },
+  {
+    "id": "a2-217",
+    "unit": "U9",
+    "word": "電視",
+    "pinyin": "diànshì",
+    "meaning": "tivi"
+  },
+  {
+    "id": "a2-218",
+    "unit": "U9",
+    "word": "電影",
+    "pinyin": "diànyǐng",
+    "meaning": "phim, điện ảnh"
+  },
+  {
+    "id": "a2-219",
+    "unit": "U9",
+    "word": "地方",
+    "pinyin": "dìfāng",
+    "meaning": "địa phương, chỗ, nơi"
+  },
+  {
+    "id": "a2-220",
+    "unit": "U9",
+    "word": "懂",
+    "pinyin": "dǒng",
+    "meaning": "hiểu"
+  },
+  {
+    "id": "a2-221",
+    "unit": "U9",
+    "word": "讀",
+    "pinyin": "dú",
+    "meaning": "đọc, học"
+  },
+  {
+    "id": "a2-222",
+    "unit": "U9",
+    "word": "短",
+    "pinyin": "duǎn",
+    "meaning": "ngắn"
+  },
+  {
+    "id": "a2-223",
+    "unit": "U9",
+    "word": "多久",
+    "pinyin": "duōjiǔ",
+    "meaning": "bao lâu"
+  },
+  {
+    "id": "a2-224",
+    "unit": "U9",
+    "word": "餓",
+    "pinyin": "è",
+    "meaning": "đói"
+  },
+  {
+    "id": "a2-225",
+    "unit": "U9",
+    "word": "耳朵",
+    "pinyin": "ěrduo",
+    "meaning": "tai"
+  },
+  {
+    "id": "a2-226",
+    "unit": "U10",
+    "word": "飯",
+    "pinyin": "fàn",
+    "meaning": "cơm, bữa ăn"
+  },
+  {
+    "id": "a2-227",
+    "unit": "U10",
+    "word": "方便",
+    "pinyin": "fāngbiàn",
+    "meaning": "thuận tiện"
+  },
+  {
+    "id": "a2-228",
+    "unit": "U10",
+    "word": "房間",
+    "pinyin": "fángjiān",
+    "meaning": "phòng"
+  },
+  {
+    "id": "a2-229",
+    "unit": "U10",
+    "word": "房子",
+    "pinyin": "fángzi",
+    "meaning": "nhà, căn nhà"
+  },
+  {
+    "id": "a2-230",
+    "unit": "U10",
+    "word": "非常",
+    "pinyin": "fēicháng",
+    "meaning": "vô cùng, rất"
+  },
+  {
+    "id": "a2-231",
+    "unit": "U10",
+    "word": "飛機",
+    "pinyin": "fēijī",
+    "meaning": "máy bay"
+  },
+  {
+    "id": "a2-232",
+    "unit": "U10",
+    "word": "風",
+    "pinyin": "fēng",
+    "meaning": "gió"
+  },
+  {
+    "id": "a2-233",
+    "unit": "U10",
+    "word": "分鐘",
+    "pinyin": "fēnzhōng",
+    "meaning": "phút"
+  },
+  {
+    "id": "a2-234",
+    "unit": "U10",
+    "word": "附近",
+    "pinyin": "fùjìn",
+    "meaning": "gần đây, lân cận"
+  },
+  {
+    "id": "a2-235",
+    "unit": "U10",
+    "word": "感冒",
+    "pinyin": "gǎnmào",
+    "meaning": "cảm mạo, cảm lạnh"
+  },
+  {
+    "id": "a2-236",
+    "unit": "U10",
+    "word": "告訴",
+    "pinyin": "gàosù",
+    "meaning": "bảo, nói cho biết"
+  },
+  {
+    "id": "a2-237",
+    "unit": "U10",
+    "word": "歌",
+    "pinyin": "gē",
+    "meaning": "bài hát"
+  },
+  {
+    "id": "a2-238",
+    "unit": "U10",
+    "word": "跟",
+    "pinyin": "gēn",
+    "meaning": "với, cùng, đi theo"
+  },
+  {
+    "id": "a2-239",
+    "unit": "U10",
+    "word": "公車",
+    "pinyin": "gōngchē",
+    "meaning": "xe buýt"
+  },
+  {
+    "id": "a2-240",
+    "unit": "U10",
+    "word": "功課",
+    "pinyin": "gōngkè",
+    "meaning": "bài tập về nhà"
+  },
+  {
+    "id": "a2-241",
+    "unit": "U10",
+    "word": "公園",
+    "pinyin": "gōngyuán",
+    "meaning": "công viên"
+  },
+  {
+    "id": "a2-242",
+    "unit": "U10",
+    "word": "夠",
+    "pinyin": "gòu",
+    "meaning": "đủ"
+  },
+  {
+    "id": "a2-243",
+    "unit": "U10",
+    "word": "貴",
+    "pinyin": "guì",
+    "meaning": "đắt, quý"
+  },
+  {
+    "id": "a2-244",
+    "unit": "U10",
+    "word": "過",
+    "pinyin": "guò",
+    "meaning": "qua, từng (trợ từ thời thái)"
+  },
+  {
+    "id": "a2-245",
+    "unit": "U10",
+    "word": "國家",
+    "pinyin": "guójiā",
+    "meaning": "quốc gia, đất nước"
+  },
+  {
+    "id": "a2-246",
+    "unit": "U10",
+    "word": "還",
+    "pinyin": "hái",
+    "meaning": "còn, vẫn còn"
+  },
+  {
+    "id": "a2-247",
+    "unit": "U10",
+    "word": "還是",
+    "pinyin": "háishì",
+    "meaning": "vẫn là, hay là"
+  },
+  {
+    "id": "a2-248",
+    "unit": "U10",
+    "word": "黑",
+    "pinyin": "hēi",
+    "meaning": "đen"
+  },
+  {
+    "id": "a2-249",
+    "unit": "U10",
+    "word": "紅",
+    "pinyin": "hóng",
+    "meaning": "đỏ"
+  },
+  {
+    "id": "a2-250",
+    "unit": "U10",
+    "word": "後年",
+    "pinyin": "hòunián",
+    "meaning": "năm sau nữa"
+  },
+  {
+    "id": "a2-251",
+    "unit": "U11",
+    "word": "後天",
+    "pinyin": "hòutiān",
+    "meaning": "ngày kia"
+  },
+  {
+    "id": "a2-252",
+    "unit": "U11",
+    "word": "花",
+    "pinyin": "huā",
+    "meaning": "hoa, tiêu (tiền, thời gian)"
+  },
+  {
+    "id": "a2-253",
+    "unit": "U11",
+    "word": "畫",
+    "pinyin": "huà",
+    "meaning": "vẽ, bức tranh"
+  },
+  {
+    "id": "a2-254",
+    "unit": "U11",
+    "word": "會",
+    "pinyin": "huì",
+    "meaning": "biết, sẽ"
+  },
+  {
+    "id": "a2-255",
+    "unit": "U11",
+    "word": "火車",
+    "pinyin": "huǒchē",
+    "meaning": "tàu hỏa"
+  },
+  {
+    "id": "a2-256",
+    "unit": "U11",
+    "word": "雞",
+    "pinyin": "jī",
+    "meaning": "gà"
+  },
+  {
+    "id": "a2-257",
+    "unit": "U11",
+    "word": "見",
+    "pinyin": "jiàn",
+    "meaning": "gặp, thấy"
+  },
+  {
+    "id": "a2-258",
+    "unit": "U11",
+    "word": "件",
+    "pinyin": "jiàn",
+    "meaning": "chiếc, kiện (lượng từ cho quần áo, sự việc)"
+  },
+  {
+    "id": "a2-259",
+    "unit": "U11",
+    "word": "教",
+    "pinyin": "jiāo",
+    "meaning": "dạy"
+  },
+  {
+    "id": "a2-260",
+    "unit": "U11",
+    "word": "教室",
+    "pinyin": "jiàoshì",
+    "meaning": "lớp học"
+  },
+  {
+    "id": "a2-261",
+    "unit": "U11",
+    "word": "家人",
+    "pinyin": "jiārén",
+    "meaning": "người nhà, gia đình"
+  },
+  {
+    "id": "a2-262",
+    "unit": "U11",
+    "word": "計程車",
+    "pinyin": "jìchéngchē",
+    "meaning": "xe taxi"
+  },
+  {
+    "id": "a2-263",
+    "unit": "U11",
+    "word": "介紹",
+    "pinyin": "jièshào",
+    "meaning": "giới thiệu"
+  },
+  {
+    "id": "a2-264",
+    "unit": "U11",
+    "word": "進",
+    "pinyin": "jìn",
+    "meaning": "vào"
+  },
+  {
+    "id": "a2-265",
+    "unit": "U11",
+    "word": "酒",
+    "pinyin": "jiǔ",
+    "meaning": "rượu"
+  },
+  {
+    "id": "a2-266",
+    "unit": "U11",
+    "word": "舊",
+    "pinyin": "jiù",
+    "meaning": "cũ"
+  },
+  {
+    "id": "a2-267",
+    "unit": "U11",
+    "word": "覺得",
+    "pinyin": "juéde",
+    "meaning": "cảm thấy, thấy rằng"
+  },
+  {
+    "id": "a2-268",
+    "unit": "U11",
+    "word": "句子",
+    "pinyin": "jùzi",
+    "meaning": "câu"
+  },
+  {
+    "id": "a2-269",
+    "unit": "U11",
+    "word": "開",
+    "pinyin": "kāi",
+    "meaning": "mở, lái, bắt đầu"
+  },
+  {
+    "id": "a2-270",
+    "unit": "U11",
+    "word": "開車",
+    "pinyin": "kāichē",
+    "meaning": "lái xe"
+  },
+  {
+    "id": "a2-271",
+    "unit": "U11",
+    "word": "看病",
+    "pinyin": "kànbìng",
+    "meaning": "khám bệnh"
+  },
+  {
+    "id": "a2-272",
+    "unit": "U11",
+    "word": "看到",
+    "pinyin": "kàndào",
+    "meaning": "nhìn thấy"
+  },
+  {
+    "id": "a2-273",
+    "unit": "U11",
+    "word": "看見",
+    "pinyin": "kànjiàn",
+    "meaning": "nhìn thấy"
+  },
+  {
+    "id": "a2-274",
+    "unit": "U11",
+    "word": "考試",
+    "pinyin": "kǎoshì",
+    "meaning": "thi cử, kiểm tra"
+  },
+  {
+    "id": "a2-275",
+    "unit": "U11",
+    "word": "課",
+    "pinyin": "kè",
+    "meaning": "bài học, tiết học"
+  },
+  {
+    "id": "a2-276",
+    "unit": "U12",
+    "word": "可是",
+    "pinyin": "kěshì",
+    "meaning": "nhưng, nhưng mà"
+  },
+  {
+    "id": "a2-277",
+    "unit": "U12",
+    "word": "空氣",
+    "pinyin": "kōngqì",
+    "meaning": "không khí"
+  },
+  {
+    "id": "a2-278",
+    "unit": "U12",
+    "word": "快",
+    "pinyin": "kuài",
+    "meaning": "nhanh, sắp"
+  },
+  {
+    "id": "a2-279",
+    "unit": "U12",
+    "word": "快樂",
+    "pinyin": "kuàilè",
+    "meaning": "vui vẻ, hạnh phúc"
+  },
+  {
+    "id": "a2-280",
+    "unit": "U12",
+    "word": "筷子/筷",
+    "pinyin": "kuàizi / kuài",
+    "meaning": "đũa"
+  },
+  {
+    "id": "a2-281",
+    "unit": "U12",
+    "word": "累",
+    "pinyin": "lèi",
+    "meaning": "mệt"
+  },
+  {
+    "id": "a2-282",
+    "unit": "U12",
+    "word": "裡/裏",
+    "pinyin": "lǐ",
+    "meaning": "trong, bên trong"
+  },
+  {
+    "id": "a2-283",
+    "unit": "U12",
+    "word": "輛",
+    "pinyin": "liàng",
+    "meaning": "chiếc (lượng từ cho xe cộ)"
+  },
+  {
+    "id": "a2-284",
+    "unit": "U12",
+    "word": "禮拜天",
+    "pinyin": "lǐbàitiān",
+    "meaning": "chủ nhật"
+  },
+  {
+    "id": "a2-285",
+    "unit": "U12",
+    "word": "裡面/裏面",
+    "pinyin": "lǐmiàn",
+    "meaning": "bên trong"
+  },
+  {
+    "id": "a2-286",
+    "unit": "U12",
+    "word": "樓",
+    "pinyin": "lóu",
+    "meaning": "tầng, lầu, tòa nhà"
+  },
+  {
+    "id": "a2-287",
+    "unit": "U12",
+    "word": "慢",
+    "pinyin": "màn",
+    "meaning": "chậm"
+  },
+  {
+    "id": "a2-288",
+    "unit": "U12",
+    "word": "忙",
+    "pinyin": "máng",
+    "meaning": "bận"
+  },
+  {
+    "id": "a2-289",
+    "unit": "U12",
+    "word": "馬上",
+    "pinyin": "mǎshàng",
+    "meaning": "ngay lập tức"
+  },
+  {
+    "id": "a2-290",
+    "unit": "U12",
+    "word": "美",
+    "pinyin": "měi",
+    "meaning": "đẹp, mỹ"
+  },
+  {
+    "id": "a2-291",
+    "unit": "U12",
+    "word": "每",
+    "pinyin": "měi",
+    "meaning": "mỗi"
+  },
+  {
+    "id": "a2-292",
+    "unit": "U12",
+    "word": "門",
+    "pinyin": "mén",
+    "meaning": "cửa"
+  },
+  {
+    "id": "a2-293",
+    "unit": "U12",
+    "word": "門口",
+    "pinyin": "ménkǒu",
+    "meaning": "cổng, lối vào"
+  },
+  {
+    "id": "a2-294",
+    "unit": "U12",
+    "word": "麵",
+    "pinyin": "miàn",
+    "meaning": "mì, bột mì"
+  },
+  {
+    "id": "a2-295",
+    "unit": "U12",
+    "word": "麵包",
+    "pinyin": "miànbāo",
+    "meaning": "bánh mì"
+  },
+  {
+    "id": "a2-296",
+    "unit": "U12",
+    "word": "明年",
+    "pinyin": "míngnián",
+    "meaning": "năm sau"
+  },
+  {
+    "id": "a2-297",
+    "unit": "U12",
+    "word": "男",
+    "pinyin": "nán",
+    "meaning": "nam, đàn ông"
+  },
+  {
+    "id": "a2-298",
+    "unit": "U12",
+    "word": "能",
+    "pinyin": "néng",
+    "meaning": "có thể"
+  },
+  {
+    "id": "a2-299",
+    "unit": "U12",
+    "word": "唸/念",
+    "pinyin": "niàn",
+    "meaning": "đọc, học, nhớ"
+  },
+  {
+    "id": "a2-300",
+    "unit": "U12",
+    "word": "牛",
+    "pinyin": "niú",
+    "meaning": "bò"
+  },
+  {
+    "id": "a2-301",
+    "unit": "U13",
+    "word": "牛奶",
+    "pinyin": "niúnǎi",
+    "meaning": "sữa bò"
+  },
+  {
+    "id": "a2-302",
+    "unit": "U13",
+    "word": "女",
+    "pinyin": "nǚ",
+    "meaning": "nữ, phụ nữ"
+  },
+  {
+    "id": "a2-303",
+    "unit": "U13",
+    "word": "怕",
+    "pinyin": "pà",
+    "meaning": "sợ"
+  },
+  {
+    "id": "a2-304",
+    "unit": "U13",
+    "word": "胖",
+    "pinyin": "pàng",
+    "meaning": "béo, mập"
+  },
+  {
+    "id": "a2-305",
+    "unit": "U13",
+    "word": "旁邊/旁",
+    "pinyin": "pángbiān / páng",
+    "meaning": "bên cạnh"
+  },
+  {
+    "id": "a2-306",
+    "unit": "U13",
+    "word": "便宜",
+    "pinyin": "piányí",
+    "meaning": "rẻ"
+  },
+  {
+    "id": "a2-307",
+    "unit": "U13",
+    "word": "漂亮",
+    "pinyin": "piàoliàng",
+    "meaning": "đẹp, xinh đẹp"
+  },
+  {
+    "id": "a2-308",
+    "unit": "U13",
+    "word": "前面",
+    "pinyin": "qiánmiàn",
+    "meaning": "phía trước"
+  },
+  {
+    "id": "a2-309",
+    "unit": "U13",
+    "word": "前年",
+    "pinyin": "qiánnián",
+    "meaning": "năm kia"
+  },
+  {
+    "id": "a2-310",
+    "unit": "U13",
+    "word": "前天",
+    "pinyin": "qiántiān",
+    "meaning": "hôm kia"
+  },
+  {
+    "id": "a2-311",
+    "unit": "U13",
+    "word": "親戚",
+    "pinyin": "qīnqī",
+    "meaning": "họ hàng, thân thích"
+  },
+  {
+    "id": "a2-312",
+    "unit": "U13",
+    "word": "晴天",
+    "pinyin": "qíngtiān",
+    "meaning": "ngày nắng, trời quang"
+  },
+  {
+    "id": "a2-313",
+    "unit": "U13",
+    "word": "去年",
+    "pinyin": "qùnián",
+    "meaning": "năm ngoái"
+  },
+  {
+    "id": "a2-314",
+    "unit": "U13",
+    "word": "讓",
+    "pinyin": "ràng",
+    "meaning": "nhường, để cho, bảo"
+  },
+  {
+    "id": "a2-315",
+    "unit": "U13",
+    "word": "認識",
+    "pinyin": "rènshì",
+    "meaning": "quen biết, nhận biết"
+  },
+  {
+    "id": "a2-316",
+    "unit": "U13",
+    "word": "認真",
+    "pinyin": "rènzhēn",
+    "meaning": "nghiêm túc, chăm chỉ"
+  },
+  {
+    "id": "a2-317",
+    "unit": "U13",
+    "word": "肉",
+    "pinyin": "ròu",
+    "meaning": "thịt"
+  },
+  {
+    "id": "a2-318",
+    "unit": "U13",
+    "word": "山",
+    "pinyin": "shān",
+    "meaning": "núi"
+  },
+  {
+    "id": "a2-319",
+    "unit": "U13",
+    "word": "商場",
+    "pinyin": "shāngchǎng",
+    "meaning": "trung tâm thương mại, thương trường"
+  },
+  {
+    "id": "a2-320",
+    "unit": "U13",
+    "word": "商店",
+    "pinyin": "shāngdiàn",
+    "meaning": "cửa hàng"
+  },
+  {
+    "id": "a2-321",
+    "unit": "U13",
+    "word": "上班",
+    "pinyin": "shàngbān",
+    "meaning": "đi làm"
+  },
+  {
+    "id": "a2-322",
+    "unit": "U13",
+    "word": "上課",
+    "pinyin": "shàngkè",
+    "meaning": "lên lớp, đi học"
+  },
+  {
+    "id": "a2-323",
+    "unit": "U13",
+    "word": "上網",
+    "pinyin": "shàngwǎng",
+    "meaning": "lên mạng"
+  },
+  {
+    "id": "a2-324",
+    "unit": "U13",
+    "word": "生病",
+    "pinyin": "shēngbìng",
+    "meaning": "bị bệnh"
+  },
+  {
+    "id": "a2-325",
+    "unit": "U13",
+    "word": "生日",
+    "pinyin": "shēngrì",
+    "meaning": "sinh nhật"
+  },
+  {
+    "id": "a2-326",
+    "unit": "U14",
+    "word": "身體",
+    "pinyin": "shēntǐ",
+    "meaning": "thân thể, sức khỏe"
+  },
+  {
+    "id": "a2-327",
+    "unit": "U14",
+    "word": "聲音",
+    "pinyin": "shēngyīn",
+    "meaning": "âm thanh, tiếng"
+  },
+  {
+    "id": "a2-328",
+    "unit": "U14",
+    "word": "試",
+    "pinyin": "shì",
+    "meaning": "thử"
+  },
+  {
+    "id": "a2-329",
+    "unit": "U14",
+    "word": "事/事情",
+    "pinyin": "shì / shìqíng",
+    "meaning": "việc, sự việc"
+  },
+  {
+    "id": "a2-330",
+    "unit": "U14",
+    "word": "手",
+    "pinyin": "shǒu",
+    "meaning": "tay"
+  },
+  {
+    "id": "a2-331",
+    "unit": "U14",
+    "word": "瘦",
+    "pinyin": "shòu",
+    "meaning": "gầy"
+  },
+  {
+    "id": "a2-332",
+    "unit": "U14",
+    "word": "舒服",
+    "pinyin": "shūfú",
+    "meaning": "thoải mái, dễ chịu"
+  },
+  {
+    "id": "a2-333",
+    "unit": "U14",
+    "word": "刷牙",
+    "pinyin": "shuāyá",
+    "meaning": "đánh răng"
+  },
+  {
+    "id": "a2-334",
+    "unit": "U14",
+    "word": "雖然",
+    "pinyin": "suīrán",
+    "meaning": "mặc dù"
+  },
+  {
+    "id": "a2-335",
+    "unit": "U14",
+    "word": "所以",
+    "pinyin": "suǒyǐ",
+    "meaning": "cho nên, vì vậy"
+  },
+  {
+    "id": "a2-336",
+    "unit": "U14",
+    "word": "牠",
+    "pinyin": "tā",
+    "meaning": "nó (dùng cho động vật)"
+  },
+  {
+    "id": "a2-337",
+    "unit": "U14",
+    "word": "它",
+    "pinyin": "tā",
+    "meaning": "nó (dùng cho đồ vật)"
+  },
+  {
+    "id": "a2-338",
+    "unit": "U14",
+    "word": "抬",
+    "pinyin": "tái",
+    "meaning": "khiêng, nhấc, ngẩng"
+  },
+  {
+    "id": "a2-339",
+    "unit": "U14",
+    "word": "談",
+    "pinyin": "tán",
+    "meaning": "nói chuyện, bàn bạc"
+  },
+  {
+    "id": "a2-340",
+    "unit": "U14",
+    "word": "糖",
+    "pinyin": "táng",
+    "meaning": "đường, kẹo"
+  },
+  {
+    "id": "a2-341",
+    "unit": "U14",
+    "word": "疼",
+    "pinyin": "téng",
+    "meaning": "đau"
+  },
+  {
+    "id": "a2-342",
+    "unit": "U14",
+    "word": "踢",
+    "pinyin": "tī",
+    "meaning": "đá"
+  },
+  {
+    "id": "a2-343",
+    "unit": "U14",
+    "word": "題",
+    "pinyin": "tí",
+    "meaning": "đề, câu hỏi, chủ đề"
+  },
+  {
+    "id": "a2-344",
+    "unit": "U14",
+    "word": "跳舞",
+    "pinyin": "tiàowǔ",
+    "meaning": "nhảy múa"
+  },
+  {
+    "id": "a2-345",
+    "unit": "U14",
+    "word": "甜",
+    "pinyin": "tián",
+    "meaning": "ngọt"
+  },
+  {
+    "id": "a2-346",
+    "unit": "U14",
+    "word": "條",
+    "pinyin": "tiáo",
+    "meaning": "con, chiếc (lượng từ cho vật dài)"
+  },
+  {
+    "id": "a2-347",
+    "unit": "U14",
+    "word": "聽說",
+    "pinyin": "tīngshuō",
+    "meaning": "nghe nói"
+  },
+  {
+    "id": "a2-348",
+    "unit": "U14",
+    "word": "同意",
+    "pinyin": "tóngyì",
+    "meaning": "đồng ý"
+  },
+  {
+    "id": "a2-349",
+    "unit": "U14",
+    "word": "頭",
+    "pinyin": "tóu",
+    "meaning": "đầu"
+  },
+  {
+    "id": "a2-350",
+    "unit": "U14",
+    "word": "頭髮",
+    "pinyin": "tóufǎ",
+    "meaning": "tóc"
+  },
+  {
+    "id": "a2-351",
+    "unit": "U15",
+    "word": "圖書館",
+    "pinyin": "túshūguǎn",
+    "meaning": "thư viện"
+  },
+  {
+    "id": "a2-352",
+    "unit": "U15",
+    "word": "晚",
+    "pinyin": "wǎn",
+    "meaning": "muộn, tối"
+  },
+  {
+    "id": "a2-353",
+    "unit": "U15",
+    "word": "晚餐",
+    "pinyin": "wǎncān",
+    "meaning": "bữa tối"
+  },
+  {
+    "id": "a2-354",
+    "unit": "U15",
+    "word": "碗",
+    "pinyin": "wǎn",
+    "meaning": "bát, chén"
+  },
+  {
+    "id": "a2-355",
+    "unit": "U15",
+    "word": "萬",
+    "pinyin": "wàn",
+    "meaning": "vạn (mười nghìn)"
+  },
+  {
+    "id": "a2-356",
+    "unit": "U15",
+    "word": "忘",
+    "pinyin": "wàng",
+    "meaning": "quên"
+  },
+  {
+    "id": "a2-357",
+    "unit": "U15",
+    "word": "忘記",
+    "pinyin": "wàngjì",
+    "meaning": "quên mất"
+  },
+  {
+    "id": "a2-358",
+    "unit": "U15",
+    "word": "危險",
+    "pinyin": "wēixiǎn",
+    "meaning": "nguy hiểm"
+  },
+  {
+    "id": "a2-359",
+    "unit": "U15",
+    "word": "為",
+    "pinyin": "wèi",
+    "meaning": "vì, cho"
+  },
+  {
+    "id": "a2-360",
+    "unit": "U15",
+    "word": "為什麼",
+    "pinyin": "wèishénme",
+    "meaning": "tại sao"
+  },
+  {
+    "id": "a2-361",
+    "unit": "U15",
+    "word": "文化",
+    "pinyin": "wénhuà",
+    "meaning": "văn hóa"
+  },
+  {
+    "id": "a2-362",
+    "unit": "U15",
+    "word": "午餐",
+    "pinyin": "wǔcān",
+    "meaning": "bữa trưa"
+  },
+  {
+    "id": "a2-363",
+    "unit": "U15",
+    "word": "西瓜",
+    "pinyin": "xīguā",
+    "meaning": "dưa hấu"
+  },
+  {
+    "id": "a2-364",
+    "unit": "U15",
+    "word": "希望",
+    "pinyin": "xīwàng",
+    "meaning": "hy vọng"
+  },
+  {
+    "id": "a2-365",
+    "unit": "U15",
+    "word": "洗",
+    "pinyin": "xǐ",
+    "meaning": "rửa, giặt"
+  },
+  {
+    "id": "a2-366",
+    "unit": "U15",
+    "word": "洗澡",
+    "pinyin": "xǐzǎo",
+    "meaning": "tắm"
+  },
+  {
+    "id": "a2-367",
+    "unit": "U15",
+    "word": "下",
+    "pinyin": "xià",
+    "meaning": "dưới, xuống"
+  },
+  {
+    "id": "a2-368",
+    "unit": "U15",
+    "word": "下班",
+    "pinyin": "xiàbān",
+    "meaning": "tan làm"
+  },
+  {
+    "id": "a2-369",
+    "unit": "U15",
+    "word": "下課",
+    "pinyin": "xiàkè",
+    "meaning": "tan học"
+  },
+  {
+    "id": "a2-370",
+    "unit": "U15",
+    "word": "下網",
+    "pinyin": "xiàwǎng",
+    "meaning": "thoát mạng (ngắt kết nối internet)"
+  },
+  {
+    "id": "a2-371",
+    "unit": "U15",
+    "word": "下雪",
+    "pinyin": "xiàxuě",
+    "meaning": "tuyết rơi"
+  },
+  {
+    "id": "a2-372",
+    "unit": "U15",
+    "word": "下雨",
+    "pinyin": "xiàyǔ",
+    "meaning": "mưa rơi"
+  },
+  {
+    "id": "a2-373",
+    "unit": "U15",
+    "word": "笑",
+    "pinyin": "xiào",
+    "meaning": "cười"
+  },
+  {
+    "id": "a2-374",
+    "unit": "U15",
+    "word": "些",
+    "pinyin": "xiē",
+    "meaning": "một số, một vài"
+  },
+  {
+    "id": "a2-375",
+    "unit": "U15",
+    "word": "信",
+    "pinyin": "xìn",
+    "meaning": "thư, tin tưởng"
+  },
+  {
+    "id": "a2-376",
+    "unit": "U16",
+    "word": "星期",
+    "pinyin": "xīngqí",
+    "meaning": "tuần, thứ"
+  },
+  {
+    "id": "a2-377",
+    "unit": "U16",
+    "word": "星期二",
+    "pinyin": "xīngqíèr",
+    "meaning": "thứ ba"
+  },
+  {
+    "id": "a2-378",
+    "unit": "U16",
+    "word": "星期六",
+    "pinyin": "xīngqíliù",
+    "meaning": "thứ bảy"
+  },
+  {
+    "id": "a2-379",
+    "unit": "U16",
+    "word": "星期三",
+    "pinyin": "xīngqísān",
+    "meaning": "thứ tư"
+  },
+  {
+    "id": "a2-380",
+    "unit": "U16",
+    "word": "星期四",
+    "pinyin": "xīngqísì",
+    "meaning": "thứ năm"
+  },
+  {
+    "id": "a2-381",
+    "unit": "U16",
+    "word": "星期五",
+    "pinyin": "xīngqíwǔ",
+    "meaning": "thứ sáu"
+  },
+  {
+    "id": "a2-382",
+    "unit": "U16",
+    "word": "休息",
+    "pinyin": "xiūxí",
+    "meaning": "nghỉ ngơi"
+  },
+  {
+    "id": "a2-383",
+    "unit": "U16",
+    "word": "需要",
+    "pinyin": "xūyào",
+    "meaning": "cần thiết, nhu cầu"
+  },
+  {
+    "id": "a2-384",
+    "unit": "U16",
+    "word": "眼睛",
+    "pinyin": "yǎnjīng",
+    "meaning": "mắt"
+  },
+  {
+    "id": "a2-385",
+    "unit": "U16",
+    "word": "顏色",
+    "pinyin": "yánsè",
+    "meaning": "màu sắc"
+  },
+  {
+    "id": "a2-386",
+    "unit": "U16",
+    "word": "樣子",
+    "pinyin": "yàngzi",
+    "meaning": "dáng vẻ, kiểu dáng"
+  },
+  {
+    "id": "a2-387",
+    "unit": "U16",
+    "word": "藥",
+    "pinyin": "yào",
+    "meaning": "thuốc"
+  },
+  {
+    "id": "a2-388",
+    "unit": "U16",
+    "word": "衣服",
+    "pinyin": "yīfú",
+    "meaning": "quần áo"
+  },
+  {
+    "id": "a2-389",
+    "unit": "U16",
+    "word": "以前",
+    "pinyin": "yǐqián",
+    "meaning": "trước đây"
+  },
+  {
+    "id": "a2-390",
+    "unit": "U16",
+    "word": "以後",
+    "pinyin": "yǐhòu",
+    "meaning": "sau này, sau khi"
+  },
+  {
+    "id": "a2-391",
+    "unit": "U16",
+    "word": "意思",
+    "pinyin": "yìsi",
+    "meaning": "ý nghĩa"
+  },
+  {
+    "id": "a2-392",
+    "unit": "U16",
+    "word": "銀行",
+    "pinyin": "yínháng",
+    "meaning": "ngân hàng"
+  },
+  {
+    "id": "a2-393",
+    "unit": "U16",
+    "word": "飲料",
+    "pinyin": "yǐnliào",
+    "meaning": "đồ uống, thức uống"
+  },
+  {
+    "id": "a2-394",
+    "unit": "U16",
+    "word": "應該",
+    "pinyin": "yīnggāi",
+    "meaning": "nên"
+  },
+  {
+    "id": "a2-395",
+    "unit": "U16",
+    "word": "游泳",
+    "pinyin": "yóuyǒng",
+    "meaning": "bơi lội"
+  },
+  {
+    "id": "a2-396",
+    "unit": "U16",
+    "word": "右邊/右",
+    "pinyin": "yòubiān / yòu",
+    "meaning": "bên phải"
+  },
+  {
+    "id": "a2-397",
+    "unit": "U16",
+    "word": "魚",
+    "pinyin": "yú",
+    "meaning": "cá"
+  },
+  {
+    "id": "a2-398",
+    "unit": "U16",
+    "word": "遠",
+    "pinyin": "yuǎn",
+    "meaning": "xa"
+  },
+  {
+    "id": "a2-399",
+    "unit": "U16",
+    "word": "越",
+    "pinyin": "yuè",
+    "meaning": "càng"
+  },
+  {
+    "id": "a2-400",
+    "unit": "U16",
+    "word": "左",
+    "pinyin": "zuǒ",
+    "meaning": "trái, bên trái"
+  },
+  {
+    "id": "a2-401",
+    "unit": "U17",
+    "word": "啊",
+    "pinyin": "a",
+    "meaning": "(trợ từ cảm thán) à, à ơi, ôi, nhé, chứ"
+  },
+  {
+    "id": "a2-402",
+    "unit": "U17",
+    "word": "把",
+    "pinyin": "bǎ",
+    "meaning": "(giới từ) đem, lấy; (lượng từ) cái, chiếc (cho đồ vật có tay cầm); bó, nắm (cho đồ vật có thể nắm)"
+  },
+  {
+    "id": "a2-403",
+    "unit": "U17",
+    "word": "班",
+    "pinyin": "bān",
+    "meaning": "(danh từ) lớp học, ca làm việc; (lượng từ) chuyến, lượt (tàu, xe)"
+  },
+  {
+    "id": "a2-404",
+    "unit": "U17",
+    "word": "辦法",
+    "pinyin": "bànfǎ",
+    "meaning": "(danh từ) cách, biện pháp, phương pháp"
+  },
+  {
+    "id": "a2-405",
+    "unit": "U17",
+    "word": "幫",
+    "pinyin": "bāng",
+    "meaning": "(động từ) giúp, giúp đỡ"
+  },
+  {
+    "id": "a2-406",
+    "unit": "U17",
+    "word": "棒",
+    "pinyin": "bàng",
+    "meaning": "(tính từ) giỏi, tuyệt vời, rất tốt"
+  },
+  {
+    "id": "a2-407",
+    "unit": "U17",
+    "word": "幫忙",
+    "pinyin": "bāngmáng",
+    "meaning": "(động từ) giúp đỡ, trợ giúp (có tính chất nhờ vả, giúp sức)"
+  },
+  {
+    "id": "a2-408",
+    "unit": "U17",
+    "word": "幫助",
+    "pinyin": "bāngzhù",
+    "meaning": "(động từ/danh từ) giúp đỡ, sự giúp đỡ"
+  },
+  {
+    "id": "a2-409",
+    "unit": "U17",
+    "word": "包",
+    "pinyin": "bāo",
+    "meaning": "(danh từ) túi, bọc, gói; (động từ) gói, bao bọc"
+  },
+  {
+    "id": "a2-410",
+    "unit": "U17",
+    "word": "北",
+    "pinyin": "běi",
+    "meaning": "(danh từ) phía bắc, phương bắc"
+  },
+  {
+    "id": "a2-411",
+    "unit": "U17",
+    "word": "被",
+    "pinyin": "bèi",
+    "meaning": "Bị (động từ)"
+  },
+  {
+    "id": "a2-412",
+    "unit": "U17",
+    "word": "本來",
+    "pinyin": "běnlái",
+    "meaning": "Vốn dĩ, ban đầu"
+  },
+  {
+    "id": "a2-413",
+    "unit": "U17",
+    "word": "變",
+    "pinyin": "biàn",
+    "meaning": "Biến đổi, thay đổi, trở nên"
+  },
+  {
+    "id": "a2-414",
+    "unit": "U17",
+    "word": "別人",
+    "pinyin": "biérén",
+    "meaning": "Người khác"
+  },
+  {
+    "id": "a2-415",
+    "unit": "U17",
+    "word": "比較/較",
+    "pinyin": "bǐjiào / jiào",
+    "meaning": "Khá là; so sánh, hơn"
+  },
+  {
+    "id": "a2-416",
+    "unit": "U17",
+    "word": "病人",
+    "pinyin": "bìngrén",
+    "meaning": "Bệnh nhân"
+  },
+  {
+    "id": "a2-417",
+    "unit": "U17",
+    "word": "比賽",
+    "pinyin": "bǐsài",
+    "meaning": "Cuộc thi đấu, trận đấu; thi đấu"
+  },
+  {
+    "id": "a2-418",
+    "unit": "U17",
+    "word": "部",
+    "pinyin": "bù",
+    "meaning": "Bộ (lượng từ)"
+  },
+  {
+    "id": "a2-419",
+    "unit": "U17",
+    "word": "部分/部份",
+    "pinyin": "bùfèn",
+    "meaning": "Phần, bộ phận"
+  },
+  {
+    "id": "a2-420",
+    "unit": "U17",
+    "word": "不過",
+    "pinyin": "búguò",
+    "meaning": "Tuy nhiên, nhưng mà"
+  },
+  {
+    "id": "a2-421",
+    "unit": "U17",
+    "word": "才",
+    "pinyin": "cái",
+    "meaning": "mới (chỉ hành động xảy ra muộn hơn dự kiến)"
+  },
+  {
+    "id": "a2-422",
+    "unit": "U17",
+    "word": "參加",
+    "pinyin": "cānjiā",
+    "meaning": "tham gia, dự"
+  },
+  {
+    "id": "a2-423",
+    "unit": "U17",
+    "word": "差不多",
+    "pinyin": "chābùduō",
+    "meaning": "gần như, xấp xỉ, tương tự"
+  },
+  {
+    "id": "a2-424",
+    "unit": "U17",
+    "word": "場",
+    "pinyin": "chǎng",
+    "meaning": "lượng từ (cho sự kiện, trận đấu, buổi biểu diễn), sân"
+  },
+  {
+    "id": "a2-425",
+    "unit": "U17",
+    "word": "成績",
+    "pinyin": "chéngjī",
+    "meaning": "thành tích, điểm số"
+  },
+  {
+    "id": "a2-426",
+    "unit": "U18",
+    "word": "春天/春",
+    "pinyin": "chūntiān / chūn",
+    "meaning": "mùa xuân"
+  },
+  {
+    "id": "a2-427",
+    "unit": "U18",
+    "word": "次",
+    "pinyin": "cì",
+    "meaning": "lần, lượt (lượng từ)"
+  },
+  {
+    "id": "a2-428",
+    "unit": "U18",
+    "word": "戴",
+    "pinyin": "dài",
+    "meaning": "đeo, đội (mũ, kính, đồng hồ, trang sức)"
+  },
+  {
+    "id": "a2-429",
+    "unit": "U18",
+    "word": "當",
+    "pinyin": "dāng",
+    "meaning": "làm, trở thành (nghề nghiệp, chức vụ)"
+  },
+  {
+    "id": "a2-430",
+    "unit": "U18",
+    "word": "當然",
+    "pinyin": "dāngrán",
+    "meaning": "đương nhiên, tất nhiên"
+  },
+  {
+    "id": "a2-431",
+    "unit": "U18",
+    "word": "但是/但",
+    "pinyin": "dànshì / dàn",
+    "meaning": "nhưng, tuy nhiên"
+  },
+  {
+    "id": "a2-432",
+    "unit": "U18",
+    "word": "道",
+    "pinyin": "dào",
+    "meaning": "(lượng từ) món (ăn)"
+  },
+  {
+    "id": "a2-433",
+    "unit": "U18",
+    "word": "大人",
+    "pinyin": "dàrén",
+    "meaning": "người lớn, người trưởng thành"
+  },
+  {
+    "id": "a2-434",
+    "unit": "U18",
+    "word": "地",
+    "pinyin": "de",
+    "meaning": "(trợ từ) cách, một cách"
+  },
+  {
+    "id": "a2-435",
+    "unit": "U18",
+    "word": "地1",
+    "pinyin": "dì",
+    "meaning": "đất, mặt đất, địa điểm"
+  },
+  {
+    "id": "a2-436",
+    "unit": "U18",
+    "word": "電",
+    "pinyin": "diàn",
+    "meaning": "điện"
+  },
+  {
+    "id": "a2-437",
+    "unit": "U18",
+    "word": "第一",
+    "pinyin": "dìyī",
+    "meaning": "thứ nhất, đầu tiên, số một"
+  },
+  {
+    "id": "a2-438",
+    "unit": "U18",
+    "word": "冬天/冬",
+    "pinyin": "dōngtiān / dōng",
+    "meaning": "mùa đông"
+  },
+  {
+    "id": "a2-439",
+    "unit": "U18",
+    "word": "放",
+    "pinyin": "fàng",
+    "meaning": "đặt, để, bỏ vào"
+  },
+  {
+    "id": "a2-440",
+    "unit": "U18",
+    "word": "方法",
+    "pinyin": "fāngfǎ",
+    "meaning": "phương pháp, cách thức"
+  },
+  {
+    "id": "a2-441",
+    "unit": "U18",
+    "word": "發現",
+    "pinyin": "fāxiàn",
+    "meaning": "Phát hiện, tìm thấy"
+  },
+  {
+    "id": "a2-442",
+    "unit": "U18",
+    "word": "份",
+    "pinyin": "fèn",
+    "meaning": "Phần, suất (lượng từ)"
+  },
+  {
+    "id": "a2-443",
+    "unit": "U18",
+    "word": "敢",
+    "pinyin": "gǎn",
+    "meaning": "Dám"
+  },
+  {
+    "id": "a2-444",
+    "unit": "U18",
+    "word": "剛剛/剛",
+    "pinyin": "gānggāng / gāng",
+    "meaning": "Vừa mới"
+  },
+  {
+    "id": "a2-445",
+    "unit": "U18",
+    "word": "乾淨",
+    "pinyin": "gānjìng",
+    "meaning": "Sạch sẽ"
+  },
+  {
+    "id": "a2-446",
+    "unit": "U18",
+    "word": "高興",
+    "pinyin": "gāoxìng",
+    "meaning": "Vui vẻ, vui mừng"
+  },
+  {
+    "id": "a2-447",
+    "unit": "U18",
+    "word": "高中",
+    "pinyin": "gāozhōng",
+    "meaning": "Cấp ba, trường cấp ba"
+  },
+  {
+    "id": "a2-448",
+    "unit": "U18",
+    "word": "各",
+    "pinyin": "gè",
+    "meaning": "Các, mỗi, mọi"
+  },
+  {
+    "id": "a2-449",
+    "unit": "U18",
+    "word": "更",
+    "pinyin": "gèng",
+    "meaning": "Hơn, càng"
+  },
+  {
+    "id": "a2-450",
+    "unit": "U18",
+    "word": "公司",
+    "pinyin": "gōngsī",
+    "meaning": "Công ty"
+  },
+  {
+    "id": "a2-451",
+    "unit": "U19",
+    "word": "狗",
+    "pinyin": "gǒu",
+    "meaning": "chó"
+  },
+  {
+    "id": "a2-452",
+    "unit": "U19",
+    "word": "故事",
+    "pinyin": "gùshì",
+    "meaning": "câu chuyện"
+  },
+  {
+    "id": "a2-453",
+    "unit": "U19",
+    "word": "海",
+    "pinyin": "hǎi",
+    "meaning": "biển"
+  },
+  {
+    "id": "a2-454",
+    "unit": "U19",
+    "word": "行",
+    "pinyin": "háng",
+    "meaning": "được, ổn (biểu thị đồng ý)"
+  },
+  {
+    "id": "a2-455",
+    "unit": "U19",
+    "word": "好像",
+    "pinyin": "hǎoxiàng",
+    "meaning": "dường như, hình như"
+  },
+  {
+    "id": "a2-456",
+    "unit": "U19",
+    "word": "後來",
+    "pinyin": "hòulái",
+    "meaning": "sau này, sau đó"
+  },
+  {
+    "id": "a2-457",
+    "unit": "U19",
+    "word": "還",
+    "pinyin": "huán",
+    "meaning": "vẫn, còn"
+  },
+  {
+    "id": "a2-458",
+    "unit": "U19",
+    "word": "黃",
+    "pinyin": "huáng",
+    "meaning": "vàng (màu sắc)"
+  },
+  {
+    "id": "a2-459",
+    "unit": "U19",
+    "word": "歡迎",
+    "pinyin": "huānyíng",
+    "meaning": "hoan nghênh, chào mừng"
+  },
+  {
+    "id": "a2-460",
+    "unit": "U19",
+    "word": "回",
+    "pinyin": "huí",
+    "meaning": "về, trở về"
+  },
+  {
+    "id": "a2-461",
+    "unit": "U19",
+    "word": "回到",
+    "pinyin": "huídào",
+    "meaning": "Trở về, quay về"
+  },
+  {
+    "id": "a2-462",
+    "unit": "U19",
+    "word": "火",
+    "pinyin": "huǒ",
+    "meaning": "Lửa, cháy, nóng"
+  },
+  {
+    "id": "a2-463",
+    "unit": "U19",
+    "word": "活動",
+    "pinyin": "huódòng",
+    "meaning": "Hoạt động, sự kiện"
+  },
+  {
+    "id": "a2-464",
+    "unit": "U19",
+    "word": "或是",
+    "pinyin": "huòshì",
+    "meaning": "Hoặc là"
+  },
+  {
+    "id": "a2-465",
+    "unit": "U19",
+    "word": "加",
+    "pinyin": "jiā",
+    "meaning": "Thêm vào, cộng vào"
+  },
+  {
+    "id": "a2-466",
+    "unit": "U19",
+    "word": "間",
+    "pinyin": "jiān",
+    "meaning": "Căn, gian (lượng từ cho nhà, phòng)"
+  },
+  {
+    "id": "a2-467",
+    "unit": "U19",
+    "word": "簡單",
+    "pinyin": "jiǎndān",
+    "meaning": "Đơn giản, dễ"
+  },
+  {
+    "id": "a2-468",
+    "unit": "U19",
+    "word": "講",
+    "pinyin": "jiǎng",
+    "meaning": "Nói, giảng, kể"
+  },
+  {
+    "id": "a2-469",
+    "unit": "U19",
+    "word": "健康",
+    "pinyin": "jiànkāng",
+    "meaning": "Sức khỏe, khỏe mạnh"
+  },
+  {
+    "id": "a2-470",
+    "unit": "U19",
+    "word": "家庭",
+    "pinyin": "jiātíng",
+    "meaning": "Gia đình"
+  },
+  {
+    "id": "a2-471",
+    "unit": "U19",
+    "word": "記得",
+    "pinyin": "jìde",
+    "meaning": "Nhớ (một điều gì đó, một sự việc, một người)"
+  },
+  {
+    "id": "a2-472",
+    "unit": "U19",
+    "word": "接",
+    "pinyin": "jiē",
+    "meaning": "Đón; nhận; nghe (điện thoại)"
+  },
+  {
+    "id": "a2-473",
+    "unit": "U19",
+    "word": "計畫/計劃",
+    "pinyin": "jìhuà",
+    "meaning": "Kế hoạch (danh từ); lên kế hoạch (động từ)"
+  },
+  {
+    "id": "a2-474",
+    "unit": "U19",
+    "word": "機會",
+    "pinyin": "jīhuì",
+    "meaning": "Cơ hội"
+  },
+  {
+    "id": "a2-475",
+    "unit": "U19",
+    "word": "近",
+    "pinyin": "jìn",
+    "meaning": "Gần"
+  },
+  {
+    "id": "a2-476",
+    "unit": "U20",
+    "word": "進步",
+    "pinyin": "jìnbù",
+    "meaning": "Tiến bộ"
+  },
+  {
+    "id": "a2-477",
+    "unit": "U20",
+    "word": "經過",
+    "pinyin": "jīngguò",
+    "meaning": "Đi qua; trải qua"
+  },
+  {
+    "id": "a2-478",
+    "unit": "U20",
+    "word": "經驗",
+    "pinyin": "jīngyàn",
+    "meaning": "Kinh nghiệm"
+  },
+  {
+    "id": "a2-479",
+    "unit": "U20",
+    "word": "緊張",
+    "pinyin": "jǐnzhāng",
+    "meaning": "Căng thẳng; lo lắng"
+  },
+  {
+    "id": "a2-480",
+    "unit": "U20",
+    "word": "句",
+    "pinyin": "jù",
+    "meaning": "Câu (đơn vị ngữ pháp); lượng từ cho câu"
+  },
+  {
+    "id": "a2-481",
+    "unit": "U20",
+    "word": "決定",
+    "pinyin": "juédìng",
+    "meaning": "Quyết định"
+  },
+  {
+    "id": "a2-482",
+    "unit": "U20",
+    "word": "開始",
+    "pinyin": "kāishǐ",
+    "meaning": "Bắt đầu"
+  },
+  {
+    "id": "a2-483",
+    "unit": "U20",
+    "word": "可愛",
+    "pinyin": "kěài",
+    "meaning": "Dễ thương, đáng yêu"
+  },
+  {
+    "id": "a2-484",
+    "unit": "U20",
+    "word": "客人",
+    "pinyin": "kèrén",
+    "meaning": "Khách, khách hàng"
+  },
+  {
+    "id": "a2-485",
+    "unit": "U20",
+    "word": "哭",
+    "pinyin": "kū",
+    "meaning": "Khóc"
+  },
+  {
+    "id": "a2-486",
+    "unit": "U20",
+    "word": "苦",
+    "pinyin": "kǔ",
+    "meaning": "Đắng; khổ"
+  },
+  {
+    "id": "a2-487",
+    "unit": "U20",
+    "word": "啦",
+    "pinyin": "la",
+    "meaning": "Rồi (trợ từ cuối câu, kết hợp 了 và 啊)"
+  },
+  {
+    "id": "a2-488",
+    "unit": "U20",
+    "word": "拉",
+    "pinyin": "lā",
+    "meaning": "Kéo"
+  },
+  {
+    "id": "a2-489",
+    "unit": "U20",
+    "word": "老闆/老板",
+    "pinyin": "lǎobǎn",
+    "meaning": "Ông chủ, bà chủ"
+  },
+  {
+    "id": "a2-490",
+    "unit": "U20",
+    "word": "老人",
+    "pinyin": "lǎorén",
+    "meaning": "Người già, người lớn tuổi"
+  },
+  {
+    "id": "a2-491",
+    "unit": "U20",
+    "word": "離",
+    "pinyin": "lí",
+    "meaning": "xa, cách"
+  },
+  {
+    "id": "a2-492",
+    "unit": "U20",
+    "word": "臉",
+    "pinyin": "liǎn",
+    "meaning": "mặt"
+  },
+  {
+    "id": "a2-493",
+    "unit": "U20",
+    "word": "練習",
+    "pinyin": "liànxí",
+    "meaning": "luyện tập, thực hành"
+  },
+  {
+    "id": "a2-494",
+    "unit": "U20",
+    "word": "聊天/聊",
+    "pinyin": "liáotiān / liáo",
+    "meaning": "nói chuyện, tán gẫu"
+  },
+  {
+    "id": "a2-495",
+    "unit": "U20",
+    "word": "離開",
+    "pinyin": "líkāi",
+    "meaning": "rời đi, rời khỏi"
+  },
+  {
+    "id": "a2-496",
+    "unit": "U20",
+    "word": "綠",
+    "pinyin": "lǜ",
+    "meaning": "xanh lá cây (màu)"
+  },
+  {
+    "id": "a2-497",
+    "unit": "U20",
+    "word": "旅行",
+    "pinyin": "lǚxíng",
+    "meaning": "du lịch"
+  },
+  {
+    "id": "a2-498",
+    "unit": "U20",
+    "word": "馬",
+    "pinyin": "mǎ",
+    "meaning": "ngựa"
+  },
+  {
+    "id": "a2-499",
+    "unit": "U20",
+    "word": "賣",
+    "pinyin": "mài",
+    "meaning": "bán"
+  },
+  {
+    "id": "a2-500",
+    "unit": "U20",
+    "word": "貓",
+    "pinyin": "māo",
+    "meaning": "mèo"
+  }
+]

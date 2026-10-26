@@ -1,0 +1,7 @@
+{
+  "name": "tocfl-a2-flashcard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "test": "node test_app.js" },
+  "devDependencies": { "playwright": "1.62.1" }
+}
