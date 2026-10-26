@@ -15,6 +15,8 @@ Bộ `test_app.js` có 18 nhóm kiểm thử: chia Unit; trạng thái ban đầ
 
 - Microsoft Edge: **18/18 đạt**.
 - Google Chrome: **18/18 đạt**.
+- Bản công khai tại https://vixuancu.github.io/tocfl-a2-flashcard/: **18/18 đạt** trên Chrome sau khi bật GitHub Pages.
+- Build lại `index.html` từ dữ liệu cho ra cùng SHA-256: kết quả build tái lập được.
 - Viewport: 1280×900, 820×1180, 390×844, 320×640.
 - Kiểm tra thêm thẻ dài nhất với 81 dấu lịch sử: không tràn ngang hoặc chồng lên nút thao tác.
 - Đã xem trực tiếp ảnh chụp desktop và điện thoại.

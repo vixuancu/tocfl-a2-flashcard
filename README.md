@@ -2,6 +2,8 @@
 
 Ứng dụng học bộ **500 mục từ do người dùng cung cấp**, chia **20 Unit × 25 thẻ** theo đúng thứ tự STT trong Excel. Giao diện và cách học kế thừa [HSK4 Flashcard của vixuancu](https://github.com/vixuancu/hsk4-flashcard).
 
+**[Mở trang học từ vựng](https://vixuancu.github.io/tocfl-a2-flashcard/)**
+
 ## Cách học
 
 - Chọn Unit, nhìn chữ Hán rồi tự nhớ pinyin và nghĩa.
